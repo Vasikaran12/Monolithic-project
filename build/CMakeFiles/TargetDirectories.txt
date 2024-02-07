@@ -1,0 +1,3 @@
+C:/Users/Administrator/Documents/VASIKARAN/Monolithic project/build/CMakeFiles/TceLib.dir
+C:/Users/Administrator/Documents/VASIKARAN/Monolithic project/build/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Documents/VASIKARAN/Monolithic project/build/CMakeFiles/rebuild_cache.dir

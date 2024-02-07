@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Administrator/Documents/VASIKARAN/Monolithic project/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -DLIBDEFLATE_DLL @CMakeFiles/TceLib.dir/includes_C.rsp -g -std=gnu11   -mfpmath=sse -msse -msse2 -o CMakeFiles\\TceLib.dir\\main.c.obj -c \"C:\\Users\\Administrator\\Documents\\VASIKARAN\\Monolithic project\\main.c\"",
+  "file": "C:/Users/Administrator/Documents/VASIKARAN/Monolithic project/main.c",
+  "output": "CMakeFiles/TceLib.dir/main.c.obj"
+}
+]
